@@ -1,13 +1,13 @@
 
 import './App.css'
-import Timer from './components/Timer'
+import SquareCalc from './components/SquareCalc'
 
 function App() {
 
 
   return (
     <div className='app-container'>
-      <Timer />
+      <SquareCalc />
     </div>
   )
 }
